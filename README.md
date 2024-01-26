@@ -32,15 +32,11 @@ Predictions were made on the test set, and a submission file was prepared as per
 - **Name**: Manoj Kumar
 - **Role**: Data Scientist / Machine Learning Engineer
 
-## Repository Structure
-
-
-
 
 ## Usage
 To replicate the results or to use the model for further development:
 1. Clone the repository.
-2. Install the required dependencies.
+2. Install the required dependencies(pip install -r requirements.txt).
 3. Run the Jupyter notebook `Hackathon_Solution.ipynb`.
 
 ## Dependencies
