@@ -1,6 +1,9 @@
 # LLM-Hackathon
 LLM Hackathon: Decoding Discourse - AI vs Human
 
+## Link to the hackathon:
+https://machinehack.com/hackathons/llm_hackathon_decoding_discourse_ai_vs_human/overview
+
 # Hackathon Challenge Solution - Essay Origin Prediction
 
 ## Overview
